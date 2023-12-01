@@ -1,4 +1,4 @@
-## Internet
+# Internet
 It's a project made for Network troubleshot or information gathering
 
 # Beta
